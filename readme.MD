@@ -1,6 +1,11 @@
 # Dosa Shop
 
 ## Plain Dosa
+karam-dosa
+* Dosa Batter
+* Light Oil
+
+## Karam Dosa
  * Dosa Batter
- * Light oil
- 
+ * Erra karam
+ * Oil
