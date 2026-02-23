@@ -12,8 +12,5 @@ karam-dosa
 
 # Egg Dosa
  * Dosa Batter
- * Egg and Karam
+ * 1/2 Egg and Karam
 
-## Egg Dosa
-* Dosa Batter
-* 2 eggs and karam
