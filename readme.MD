@@ -23,6 +23,4 @@ karam-dosa
   * Dosa Batter
   * Mashroom masal
   * Oil
-  * Onions 
-  
   
