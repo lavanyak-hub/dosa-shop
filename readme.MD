@@ -14,3 +14,5 @@ karam-dosa
  * Dosa Batter
  * 3 Egg and Karam
 
+## Panner Dosa
+ * Dosa Batter
